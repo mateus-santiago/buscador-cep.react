@@ -1,6 +1,6 @@
 # Buscador CEP
 
-App criado em **React** que busca o Cep digitado e traz as informações do mesmo.
+App criado em **React** que busca o Cep digitado e traz as informações do mesmo na tela.
 
 ## Como Executar
 
